@@ -1,7 +1,7 @@
 # Sales Performance Dashboard (Power BI)
 
 ## Project Overview
-Developed an interactive Power BI dashboard using the Sample Superstore dataset to analyze sales performance and customer behavior.
+Developed an interactive Power BI dashboard built using the Sample Superstore dataset to analyze sales performance, profitability, customer trends, and regional performance.
 
 ## Tools Used
 - Power BI
